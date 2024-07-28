@@ -64,7 +64,8 @@
              "ytdl-secktor": "npm:ytdl-core@latest",
              "link-preview-js": "^3.0.0",
             "puppeteer": "latest",
-            "ytdl-core": "github:franceking1/flash-dls"
+            "ytdl-core": "github:franceking1/flash-dls",
+            "youtubedl-core": "^4.11.7"
    },
    "directories": {
       "lib": "lib",
